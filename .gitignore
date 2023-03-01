@@ -1,0 +1,10 @@
+**/build
+**/figures
+*.synctex.gz
+*.log
+.directory
+.stfolder
+organizer.sh
+**/.idea
+**/venv
+**/__pycache__
